@@ -27,7 +27,7 @@ O **Tecnologia sem Mistérios** nasceu com o propósito de democratizar o acesso
 
 Esta plataforma funciona como um guia interativo, simplificando conceitos complexos e ensinando o uso de ferramentas cotidianas de forma paciente, visual e didática.
 
-> 🌐 **Acesse a Aplicação:** (https://cryslemos.github.io/Tecnologia-sem-Misterios/)](https://cryslemos.github.io/Tecnologia-sem-Misterios/)
+> 🌐 **Acesse a Aplicação:** (https://cryslemos.github.io/Tecnologia-sem-Misterios/)
 
 
 ## 🛠️ Tecnologias Utilizadas
